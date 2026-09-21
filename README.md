@@ -1,4 +1,4 @@
-https://github.com/sanyokpas/sales-bonus
+https://github.com/sanyokpas/sales-bonus.git
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
